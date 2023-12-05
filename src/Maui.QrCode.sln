@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{B4A3881D-3BF3-4516-A8C2-75BCACF6A1D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maui.QrCode", "Maui.QrCode\Maui.QrCode.csproj", "{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.QrCode.Sample", "Maui.QrCode.Sample\Maui.QrCode.Sample.csproj", "{83306798-B671-46F4-8B1A-0925C2134303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Debug|x64.Build.0 = Debug|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Debug|x86.Build.0 = Debug|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Release|x64.ActiveCfg = Release|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Release|x64.Build.0 = Release|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Release|x86.ActiveCfg = Release|Any CPU
+		{C6DCEB5B-3DB7-47DD-B231-6202B9D49ACE}.Release|x86.Build.0 = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|x64.Build.0 = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|x86.Build.0 = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|x64.ActiveCfg = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|x64.Build.0 = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|x64.Deploy.0 = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|x86.ActiveCfg = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|x86.Build.0 = Release|Any CPU
+		{83306798-B671-46F4-8B1A-0925C2134303}.Release|x86.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83306798-B671-46F4-8B1A-0925C2134303} = {B4A3881D-3BF3-4516-A8C2-75BCACF6A1D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89062DF5-D557-4E90-B6BE-7733445C46B9}
+	EndGlobalSection
+EndGlobal
