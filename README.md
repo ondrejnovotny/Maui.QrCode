@@ -1,6 +1,6 @@
 # QRCode *for MAUI apps*
 
-[![NuGet](https://img.shields.io/nuget/v/Maui.QrCode.svg?label=NuGet)](https://www.nuget.org/packages/Maui.QrCode/)]
+[![NuGet](https://img.shields.io/nuget/v/VyvojariUo.Maui.QrCode.svg?label=NuGet)](https://www.nuget.org/packages/VyvojariUo.Maui.QrCode/)]
 
 A QRCode MAUI view based on SkiaSharp and Xam.Forms.QRCode [!(https://github.com/dotnet-ad/Xam.Forms.QRCode)].
 
